@@ -22,7 +22,6 @@ class MainActivity : AppCompatActivity() {
             override fun onFailure(call: Call<User>, t: Throwable) {
 
             }
-
         })
     }
 }
